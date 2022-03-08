@@ -1,0 +1,2 @@
+# LeetCodeTest
+take_notes
